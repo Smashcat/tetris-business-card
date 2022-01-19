@@ -7,4 +7,4 @@ The card is designed for a CR2016 battery. On our cards, we solded a U shaped pi
 
 Although this is kind of specialized for Tetris, I'd be interested in seeing any other games or animations people make!
 
-[[images/3d-render.png|3D render]]
+![3D render](images/3d-render.png)
